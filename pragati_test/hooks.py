@@ -1,8 +1,8 @@
 app_name = "pragati_test"
 app_title = "Pragati"
 app_publisher = "Pragati"
-app_description = "Info about stores and others"
-app_email = "pragatiautomation.in"
+app_description = " Info about stores and others"
+app_email = "pragati@automation.in"
 app_license = "MIT"
 
 # Includes in <head>
